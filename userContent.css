@@ -1,0 +1,9 @@
+@-moz-document url(about:newtab), url(about:home) { 
+    .outer-wrapper {
+      background-image: url(sakura_art_sky_122545_2560x1440.jpg) !important;
+      background-size: cover !important;
+      background-attachment: fixed !important;
+    }
+    .activity-stream .top-site-inner .title {
+      color: #fff !important;
+    }
