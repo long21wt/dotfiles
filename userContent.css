@@ -1,6 +1,6 @@
 @-moz-document url(about:newtab), url(about:home) { 
     .outer-wrapper {
-      background-image: url(sakura_art_sky_122545_2560x1440.jpg) !important;
+      background-image: url(https://images5.alphacoders.com/104/1041982.jpg) !important;
       background-size: cover !important;
       background-attachment: fixed !important;
     }
